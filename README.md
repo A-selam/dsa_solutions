@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [2509-minimize-xor](https://github.com/A-selam/dsa_solutions/tree/master/2509-minimize-xor) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/A-selam/dsa_solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## String
 |  |
@@ -22,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2887-sort-vowels-in-a-string](https://github.com/A-selam/dsa_solutions/tree/master/2887-sort-vowels-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [2509-minimize-xor](https://github.com/A-selam/dsa_solutions/tree/master/2509-minimize-xor) |
 <!---LeetCode Topics End-->
