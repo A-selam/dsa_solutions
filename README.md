@@ -4,12 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/A-selam/dsa_solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3462-vowels-game-in-a-string](https://github.com/A-selam/dsa_solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/A-selam/dsa_solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/A-selam/dsa_solutions/tree/master/3830-find-closest-person) |
 ## Array
 |  |
 | ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/A-selam/dsa_solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/A-selam/dsa_solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Bit Manipulation
 |  |
@@ -48,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/A-selam/dsa_solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Stack
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/A-selam/dsa_solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Number Theory
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/A-selam/dsa_solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
