@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/A-selam/dsa_solutions/tree/master/0399-evaluate-division) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/A-selam/dsa_solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/A-selam/dsa_solutions/tree/master/2429-design-a-food-rating-system) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/A-selam/dsa_solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/A-selam/dsa_solutions/tree/master/0399-evaluate-division) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/A-selam/dsa_solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2429-design-a-food-rating-system](https://github.com/A-selam/dsa_solutions/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/A-selam/dsa_solutions/tree/master/2887-sort-vowels-in-a-string) |
@@ -77,4 +79,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/A-selam/dsa_solutions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/A-selam/dsa_solutions/tree/master/3678-design-task-manager) |
+## Depth-First Search
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/A-selam/dsa_solutions/tree/master/0399-evaluate-division) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/A-selam/dsa_solutions/tree/master/0399-evaluate-division) |
+## Union Find
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/A-selam/dsa_solutions/tree/master/0399-evaluate-division) |
+## Graph
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/A-selam/dsa_solutions/tree/master/0399-evaluate-division) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/A-selam/dsa_solutions/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
