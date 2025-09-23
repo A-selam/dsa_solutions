@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/A-selam/dsa_solutions/tree/master/0165-compare-version-numbers) |
 | [0399-evaluate-division](https://github.com/A-selam/dsa_solutions/tree/master/0399-evaluate-division) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/A-selam/dsa_solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2429-design-a-food-rating-system](https://github.com/A-selam/dsa_solutions/tree/master/2429-design-a-food-rating-system) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/A-selam/dsa_solutions/tree/master/0165-compare-version-numbers) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/A-selam/dsa_solutions/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 ## Dynamic Programming
 |  |
