@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/A-selam/dsa_solutions/tree/master/0064-minimum-path-sum) |
 | [0322-coin-change](https://github.com/A-selam/dsa_solutions/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/A-selam/dsa_solutions/tree/master/0399-evaluate-division) |
 | [0494-target-sum](https://github.com/A-selam/dsa_solutions/tree/master/0494-target-sum) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/A-selam/dsa_solutions/tree/master/0064-minimum-path-sum) |
 | [3797-design-spreadsheet](https://github.com/A-selam/dsa_solutions/tree/master/3797-design-spreadsheet) |
 ## Two Pointers
 |  |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/A-selam/dsa_solutions/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/A-selam/dsa_solutions/tree/master/0064-minimum-path-sum) |
 | [0322-coin-change](https://github.com/A-selam/dsa_solutions/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/A-selam/dsa_solutions/tree/master/0494-target-sum) |
 | [1013-fibonacci-number](https://github.com/A-selam/dsa_solutions/tree/master/1013-fibonacci-number) |
