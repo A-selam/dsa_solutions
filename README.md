@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/A-selam/dsa_solutions/tree/master/0062-unique-paths) |
 | [1013-fibonacci-number](https://github.com/A-selam/dsa_solutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/A-selam/dsa_solutions/tree/master/1236-n-th-tribonacci-number) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/A-selam/dsa_solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/A-selam/dsa_solutions/tree/master/0062-unique-paths) |
 | [0322-coin-change](https://github.com/A-selam/dsa_solutions/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/A-selam/dsa_solutions/tree/master/0494-target-sum) |
 | [1013-fibonacci-number](https://github.com/A-selam/dsa_solutions/tree/master/1013-fibonacci-number) |
@@ -161,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/A-selam/dsa_solutions/tree/master/0494-target-sum) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/A-selam/dsa_solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
