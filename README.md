@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/A-selam/dsa_solutions/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/A-selam/dsa_solutions/tree/master/0399-evaluate-division) |
+| [0494-target-sum](https://github.com/A-selam/dsa_solutions/tree/master/0494-target-sum) |
 | [0960-minimize-malware-spread](https://github.com/A-selam/dsa_solutions/tree/master/0960-minimize-malware-spread) |
 | [2023-design-movie-rental-system](https://github.com/A-selam/dsa_solutions/tree/master/2023-design-movie-rental-system) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/A-selam/dsa_solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/A-selam/dsa_solutions/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/A-selam/dsa_solutions/tree/master/0494-target-sum) |
 | [1013-fibonacci-number](https://github.com/A-selam/dsa_solutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/A-selam/dsa_solutions/tree/master/1236-n-th-tribonacci-number) |
 ## Recursion
@@ -155,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1013-fibonacci-number](https://github.com/A-selam/dsa_solutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/A-selam/dsa_solutions/tree/master/1236-n-th-tribonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/A-selam/dsa_solutions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
