@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-minimize-malware-spread](https://github.com/A-selam/dsa_solutions/tree/master/0960-minimize-malware-spread) |
 | [1018-largest-perimeter-triangle](https://github.com/A-selam/dsa_solutions/tree/master/1018-largest-perimeter-triangle) |
 | [2023-design-movie-rental-system](https://github.com/A-selam/dsa_solutions/tree/master/2023-design-movie-rental-system) |
+| [2262-solving-questions-with-brainpower](https://github.com/A-selam/dsa_solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/A-selam/dsa_solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/A-selam/dsa_solutions/tree/master/2429-design-a-food-rating-system) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/A-selam/dsa_solutions/tree/master/3165-find-indices-with-index-and-value-difference-i) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/A-selam/dsa_solutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/A-selam/dsa_solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1764-maximum-repeating-substring](https://github.com/A-selam/dsa_solutions/tree/master/1764-maximum-repeating-substring) |
+| [2262-solving-questions-with-brainpower](https://github.com/A-selam/dsa_solutions/tree/master/2262-solving-questions-with-brainpower) |
 ## Recursion
 |  |
 | ------- |
