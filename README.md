@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/A-selam/dsa_solutions/tree/master/0091-decode-ways) |
 | [0165-compare-version-numbers](https://github.com/A-selam/dsa_solutions/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/A-selam/dsa_solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0399-evaluate-division](https://github.com/A-selam/dsa_solutions/tree/master/0399-evaluate-division) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/A-selam/dsa_solutions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/A-selam/dsa_solutions/tree/master/0064-minimum-path-sum) |
+| [0091-decode-ways](https://github.com/A-selam/dsa_solutions/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/A-selam/dsa_solutions/tree/master/0120-triangle) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/A-selam/dsa_solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/A-selam/dsa_solutions/tree/master/0322-coin-change) |
