@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/A-selam/dsa_solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/A-selam/dsa_solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/A-selam/dsa_solutions/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2342-minimum-average-difference](https://github.com/A-selam/dsa_solutions/tree/master/2342-minimum-average-difference) |
 | [2429-design-a-food-rating-system](https://github.com/A-selam/dsa_solutions/tree/master/2429-design-a-food-rating-system) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/A-selam/dsa_solutions/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/A-selam/dsa_solutions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2342-minimum-average-difference](https://github.com/A-selam/dsa_solutions/tree/master/2342-minimum-average-difference) |
 | [3647-zero-array-transformation-iii](https://github.com/A-selam/dsa_solutions/tree/master/3647-zero-array-transformation-iii) |
 ## Matrix
 |  |
