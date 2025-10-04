@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/A-selam/dsa_solutions/tree/master/0011-container-with-most-water) |
 | [0064-minimum-path-sum](https://github.com/A-selam/dsa_solutions/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/A-selam/dsa_solutions/tree/master/0120-triangle) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/A-selam/dsa_solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/A-selam/dsa_solutions/tree/master/0011-container-with-most-water) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/A-selam/dsa_solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1018-largest-perimeter-triangle](https://github.com/A-selam/dsa_solutions/tree/master/1018-largest-perimeter-triangle) |
 | [2509-minimize-xor](https://github.com/A-selam/dsa_solutions/tree/master/2509-minimize-xor) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/A-selam/dsa_solutions/tree/master/0011-container-with-most-water) |
 | [0165-compare-version-numbers](https://github.com/A-selam/dsa_solutions/tree/master/0165-compare-version-numbers) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/A-selam/dsa_solutions/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 ## Dynamic Programming
