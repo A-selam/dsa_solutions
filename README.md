@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/A-selam/dsa_solutions/tree/master/0062-unique-paths) |
 | [0166-fraction-to-recurring-decimal](https://github.com/A-selam/dsa_solutions/tree/master/0166-fraction-to-recurring-decimal) |
+| [0204-count-primes](https://github.com/A-selam/dsa_solutions/tree/master/0204-count-primes) |
 | [0830-largest-triangle-area](https://github.com/A-selam/dsa_solutions/tree/master/0830-largest-triangle-area) |
 | [0909-stone-game](https://github.com/A-selam/dsa_solutions/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/A-selam/dsa_solutions/tree/master/1013-fibonacci-number) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/A-selam/dsa_solutions/tree/master/0011-container-with-most-water) |
 | [0064-minimum-path-sum](https://github.com/A-selam/dsa_solutions/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/A-selam/dsa_solutions/tree/master/0120-triangle) |
+| [0204-count-primes](https://github.com/A-selam/dsa_solutions/tree/master/0204-count-primes) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/A-selam/dsa_solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/A-selam/dsa_solutions/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/A-selam/dsa_solutions/tree/master/0377-combination-sum-iv) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/A-selam/dsa_solutions/tree/master/0204-count-primes) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/A-selam/dsa_solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Design
 |  |
@@ -256,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/A-selam/dsa_solutions/tree/master/0794-swim-in-rising-water) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/A-selam/dsa_solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/A-selam/dsa_solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
