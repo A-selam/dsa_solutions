@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/A-selam/dsa_solutions/tree/master/2429-design-a-food-rating-system) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/A-selam/dsa_solutions/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/A-selam/dsa_solutions/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/A-selam/dsa_solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3647-zero-array-transformation-iii](https://github.com/A-selam/dsa_solutions/tree/master/3647-zero-array-transformation-iii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/A-selam/dsa_solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3797-design-spreadsheet](https://github.com/A-selam/dsa_solutions/tree/master/3797-design-spreadsheet) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2342-minimum-average-difference](https://github.com/A-selam/dsa_solutions/tree/master/2342-minimum-average-difference) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/A-selam/dsa_solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3647-zero-array-transformation-iii](https://github.com/A-selam/dsa_solutions/tree/master/3647-zero-array-transformation-iii) |
 ## Matrix
 |  |
