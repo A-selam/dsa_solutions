@@ -1,0 +1,18 @@
+func mySqrt(x int) int {
+    left := 0
+    right := x
+    y := 0
+
+    for ;left <= right; {
+        mid := (left + right) / 2
+        
+        if (mid*mid > x){
+            right = mid-1
+        } else {
+            y = mid
+            left = mid+1
+        }
+    }
+    
+    return y
+}
