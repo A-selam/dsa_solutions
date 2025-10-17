@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/A-selam/dsa_solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0399-evaluate-division](https://github.com/A-selam/dsa_solutions/tree/master/0399-evaluate-division) |
 | [0648-replace-words](https://github.com/A-selam/dsa_solutions/tree/master/0648-replace-words) |
+| [0677-map-sum-pairs](https://github.com/A-selam/dsa_solutions/tree/master/0677-map-sum-pairs) |
 | [0746-prefix-and-suffix-search](https://github.com/A-selam/dsa_solutions/tree/master/0746-prefix-and-suffix-search) |
 | [1250-longest-common-subsequence](https://github.com/A-selam/dsa_solutions/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/A-selam/dsa_solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/A-selam/dsa_solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0648-replace-words](https://github.com/A-selam/dsa_solutions/tree/master/0648-replace-words) |
+| [0677-map-sum-pairs](https://github.com/A-selam/dsa_solutions/tree/master/0677-map-sum-pairs) |
 | [0746-prefix-and-suffix-search](https://github.com/A-selam/dsa_solutions/tree/master/0746-prefix-and-suffix-search) |
 | [0960-minimize-malware-spread](https://github.com/A-selam/dsa_solutions/tree/master/0960-minimize-malware-spread) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/A-selam/dsa_solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/A-selam/dsa_solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0677-map-sum-pairs](https://github.com/A-selam/dsa_solutions/tree/master/0677-map-sum-pairs) |
 | [0746-prefix-and-suffix-search](https://github.com/A-selam/dsa_solutions/tree/master/0746-prefix-and-suffix-search) |
 | [2023-design-movie-rental-system](https://github.com/A-selam/dsa_solutions/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/A-selam/dsa_solutions/tree/master/2429-design-a-food-rating-system) |
@@ -304,5 +307,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/A-selam/dsa_solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0648-replace-words](https://github.com/A-selam/dsa_solutions/tree/master/0648-replace-words) |
+| [0677-map-sum-pairs](https://github.com/A-selam/dsa_solutions/tree/master/0677-map-sum-pairs) |
 | [0746-prefix-and-suffix-search](https://github.com/A-selam/dsa_solutions/tree/master/0746-prefix-and-suffix-search) |
 <!---LeetCode Topics End-->
