@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/A-selam/dsa_solutions/tree/master/0494-target-sum) |
 | [0648-replace-words](https://github.com/A-selam/dsa_solutions/tree/master/0648-replace-words) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/A-selam/dsa_solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0720-longest-word-in-dictionary](https://github.com/A-selam/dsa_solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0746-prefix-and-suffix-search](https://github.com/A-selam/dsa_solutions/tree/master/0746-prefix-and-suffix-search) |
 | [0794-swim-in-rising-water](https://github.com/A-selam/dsa_solutions/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/A-selam/dsa_solutions/tree/master/0830-largest-triangle-area) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/A-selam/dsa_solutions/tree/master/0399-evaluate-division) |
 | [0648-replace-words](https://github.com/A-selam/dsa_solutions/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/A-selam/dsa_solutions/tree/master/0677-map-sum-pairs) |
+| [0720-longest-word-in-dictionary](https://github.com/A-selam/dsa_solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0746-prefix-and-suffix-search](https://github.com/A-selam/dsa_solutions/tree/master/0746-prefix-and-suffix-search) |
 | [1250-longest-common-subsequence](https://github.com/A-selam/dsa_solutions/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/A-selam/dsa_solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0720-longest-word-in-dictionary](https://github.com/A-selam/dsa_solutions/tree/master/0720-longest-word-in-dictionary) |
 | [1018-largest-perimeter-triangle](https://github.com/A-selam/dsa_solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/A-selam/dsa_solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/A-selam/dsa_solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/A-selam/dsa_solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0648-replace-words](https://github.com/A-selam/dsa_solutions/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/A-selam/dsa_solutions/tree/master/0677-map-sum-pairs) |
+| [0720-longest-word-in-dictionary](https://github.com/A-selam/dsa_solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0746-prefix-and-suffix-search](https://github.com/A-selam/dsa_solutions/tree/master/0746-prefix-and-suffix-search) |
 | [0960-minimize-malware-spread](https://github.com/A-selam/dsa_solutions/tree/master/0960-minimize-malware-spread) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/A-selam/dsa_solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -308,5 +312,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/A-selam/dsa_solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0648-replace-words](https://github.com/A-selam/dsa_solutions/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/A-selam/dsa_solutions/tree/master/0677-map-sum-pairs) |
+| [0720-longest-word-in-dictionary](https://github.com/A-selam/dsa_solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0746-prefix-and-suffix-search](https://github.com/A-selam/dsa_solutions/tree/master/0746-prefix-and-suffix-search) |
 <!---LeetCode Topics End-->
