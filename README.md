@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/A-selam/dsa_solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/A-selam/dsa_solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0399-evaluate-division](https://github.com/A-selam/dsa_solutions/tree/master/0399-evaluate-division) |
+| [0514-freedom-trail](https://github.com/A-selam/dsa_solutions/tree/master/0514-freedom-trail) |
 | [0648-replace-words](https://github.com/A-selam/dsa_solutions/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/A-selam/dsa_solutions/tree/master/0677-map-sum-pairs) |
 | [0720-longest-word-in-dictionary](https://github.com/A-selam/dsa_solutions/tree/master/0720-longest-word-in-dictionary) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/A-selam/dsa_solutions/tree/master/0337-house-robber-iii) |
 | [0399-evaluate-division](https://github.com/A-selam/dsa_solutions/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/A-selam/dsa_solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0514-freedom-trail](https://github.com/A-selam/dsa_solutions/tree/master/0514-freedom-trail) |
 | [0794-swim-in-rising-water](https://github.com/A-selam/dsa_solutions/tree/master/0794-swim-in-rising-water) |
 | [0960-minimize-malware-spread](https://github.com/A-selam/dsa_solutions/tree/master/0960-minimize-malware-spread) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/A-selam/dsa_solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/A-selam/dsa_solutions/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/A-selam/dsa_solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/A-selam/dsa_solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0514-freedom-trail](https://github.com/A-selam/dsa_solutions/tree/master/0514-freedom-trail) |
 | [0794-swim-in-rising-water](https://github.com/A-selam/dsa_solutions/tree/master/0794-swim-in-rising-water) |
 | [0960-minimize-malware-spread](https://github.com/A-selam/dsa_solutions/tree/master/0960-minimize-malware-spread) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/A-selam/dsa_solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/A-selam/dsa_solutions/tree/master/0377-combination-sum-iv) |
 | [0403-frog-jump](https://github.com/A-selam/dsa_solutions/tree/master/0403-frog-jump) |
 | [0494-target-sum](https://github.com/A-selam/dsa_solutions/tree/master/0494-target-sum) |
+| [0514-freedom-trail](https://github.com/A-selam/dsa_solutions/tree/master/0514-freedom-trail) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/A-selam/dsa_solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0909-stone-game](https://github.com/A-selam/dsa_solutions/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/A-selam/dsa_solutions/tree/master/1013-fibonacci-number) |
