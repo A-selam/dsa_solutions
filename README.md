@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/A-selam/dsa_solutions/tree/master/0191-number-of-1-bits) |
 | [2509-minimize-xor](https://github.com/A-selam/dsa_solutions/tree/master/2509-minimize-xor) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/A-selam/dsa_solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## String
@@ -341,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/A-selam/dsa_solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/A-selam/dsa_solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/A-selam/dsa_solutions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
