@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/A-selam/dsa_solutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/A-selam/dsa_solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/A-selam/dsa_solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/A-selam/dsa_solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/A-selam/dsa_solutions/tree/master/3647-zero-array-transformation-iii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/A-selam/dsa_solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3797-design-spreadsheet](https://github.com/A-selam/dsa_solutions/tree/master/3797-design-spreadsheet) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/A-selam/dsa_solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/A-selam/dsa_solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/A-selam/dsa_solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/A-selam/dsa_solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/A-selam/dsa_solutions/tree/master/3647-zero-array-transformation-iii) |
 ## Greedy
 |  |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2342-minimum-average-difference](https://github.com/A-selam/dsa_solutions/tree/master/2342-minimum-average-difference) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/A-selam/dsa_solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/A-selam/dsa_solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/A-selam/dsa_solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/A-selam/dsa_solutions/tree/master/3647-zero-array-transformation-iii) |
 ## Matrix
 |  |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/A-selam/dsa_solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/A-selam/dsa_solutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/A-selam/dsa_solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/A-selam/dsa_solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -336,4 +340,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/A-selam/dsa_solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/A-selam/dsa_solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 <!---LeetCode Topics End-->
