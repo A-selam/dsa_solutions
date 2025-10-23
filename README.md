@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/A-selam/dsa_solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/A-selam/dsa_solutions/tree/master/0794-swim-in-rising-water) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/A-selam/dsa_solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2023-design-movie-rental-system](https://github.com/A-selam/dsa_solutions/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/A-selam/dsa_solutions/tree/master/2429-design-a-food-rating-system) |
 | [3647-zero-array-transformation-iii](https://github.com/A-selam/dsa_solutions/tree/master/3647-zero-array-transformation-iii) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/A-selam/dsa_solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0514-freedom-trail](https://github.com/A-selam/dsa_solutions/tree/master/0514-freedom-trail) |
 | [0794-swim-in-rising-water](https://github.com/A-selam/dsa_solutions/tree/master/0794-swim-in-rising-water) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/A-selam/dsa_solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0960-minimize-malware-spread](https://github.com/A-selam/dsa_solutions/tree/master/0960-minimize-malware-spread) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/A-selam/dsa_solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Breadth-First Search
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/A-selam/dsa_solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0514-freedom-trail](https://github.com/A-selam/dsa_solutions/tree/master/0514-freedom-trail) |
 | [0794-swim-in-rising-water](https://github.com/A-selam/dsa_solutions/tree/master/0794-swim-in-rising-water) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/A-selam/dsa_solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0960-minimize-malware-spread](https://github.com/A-selam/dsa_solutions/tree/master/0960-minimize-malware-spread) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/A-selam/dsa_solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Union Find
@@ -221,11 +224,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/A-selam/dsa_solutions/tree/master/0399-evaluate-division) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/A-selam/dsa_solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0960-minimize-malware-spread](https://github.com/A-selam/dsa_solutions/tree/master/0960-minimize-malware-spread) |
 ## Shortest Path
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/A-selam/dsa_solutions/tree/master/0399-evaluate-division) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/A-selam/dsa_solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -265,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/A-selam/dsa_solutions/tree/master/0494-target-sum) |
 | [0514-freedom-trail](https://github.com/A-selam/dsa_solutions/tree/master/0514-freedom-trail) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/A-selam/dsa_solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/A-selam/dsa_solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0909-stone-game](https://github.com/A-selam/dsa_solutions/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/A-selam/dsa_solutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/A-selam/dsa_solutions/tree/master/1236-n-th-tribonacci-number) |
