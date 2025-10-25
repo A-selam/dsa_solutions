@@ -1,0 +1,67 @@
+# Problem: Longest Word in Dictionary - https://leetcode.com/problems/longest-word-in-dictionary/
+
+type TrieNode struct {
+	children map[rune]*TrieNode
+}
+
+func NewTrieNode() *TrieNode {
+	return &TrieNode{
+		children: make(map[rune]*TrieNode),
+	}
+}
+
+type Trie struct {
+	root *TrieNode
+}
+
+func NewTrie() *Trie { 
+	return &Trie{
+		root: NewTrieNode(),
+	}
+}
+
+func (trie *Trie) insert(word string) {
+	curr := trie.root
+	for _, char := range word { 
+		if _, ok := curr.children[char]; !ok {
+			curr.children[char] = NewTrieNode() 
+		}
+		curr = curr.children[char]
+	}
+}
+
+func (trie *Trie) search(pre string) bool {
+	curr := trie.root
+	for _, char := range pre {
+		next, ok := curr.children[char] 
+		if !ok {
+			return false
+		}
+		curr = next
+	}
+	return true
+}
+
+func longestWord(words []string) string {
+    sort.Strings(words)
+    ans := ""
+    trie := NewTrie()
+
+    for _, word := range words{
+        if len(word) == 1 {
+            trie.insert(word)
+            if len(word) > len(ans){
+                ans = word
+            } 
+            continue
+        } 
+        if trie.search(word[:len(word)-1]){
+            trie.insert(word)
+            if len(word) > len(ans){
+                ans = word
+            }
+        }
+    }
+
+    return ans
+}
