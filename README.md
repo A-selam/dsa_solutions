@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/A-selam/dsa_solutions/tree/master/0191-number-of-1-bits) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/A-selam/dsa_solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2509-minimize-xor](https://github.com/A-selam/dsa_solutions/tree/master/2509-minimize-xor) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/A-selam/dsa_solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## String
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/A-selam/dsa_solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/A-selam/dsa_solutions/tree/master/1250-longest-common-subsequence) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/A-selam/dsa_solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/A-selam/dsa_solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1764-maximum-repeating-substring](https://github.com/A-selam/dsa_solutions/tree/master/1764-maximum-repeating-substring) |
 | [2262-solving-questions-with-brainpower](https://github.com/A-selam/dsa_solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/A-selam/dsa_solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1013-fibonacci-number](https://github.com/A-selam/dsa_solutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/A-selam/dsa_solutions/tree/master/1236-n-th-tribonacci-number) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/A-selam/dsa_solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Backtracking
 |  |
 | ------- |
