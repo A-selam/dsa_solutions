@@ -1,0 +1,17 @@
+# Problem: Minimum One Bit Operations to Make Integers Zero - https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/description/?envType=problem-list-v2&envId=bit-manipulation
+
+func minimumOneBitOperations(n int) int {
+	ans := 0
+	k := 0
+	mask := 1
+
+	for mask <= n {
+		if n&mask != 0 {
+			ans = (1 << (k + 1)) - 1 - ans
+		}
+		mask <<= 1
+		k++
+	}
+
+	return ans
+}
