@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/A-selam/dsa_solutions/tree/master/0909-stone-game) |
 | [0960-minimize-malware-spread](https://github.com/A-selam/dsa_solutions/tree/master/0960-minimize-malware-spread) |
 | [1018-largest-perimeter-triangle](https://github.com/A-selam/dsa_solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1022-unique-paths-iii](https://github.com/A-selam/dsa_solutions/tree/master/1022-unique-paths-iii) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/A-selam/dsa_solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/A-selam/dsa_solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2023-design-movie-rental-system](https://github.com/A-selam/dsa_solutions/tree/master/2023-design-movie-rental-system) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/A-selam/dsa_solutions/tree/master/0191-number-of-1-bits) |
+| [1022-unique-paths-iii](https://github.com/A-selam/dsa_solutions/tree/master/1022-unique-paths-iii) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/A-selam/dsa_solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2509-minimize-xor](https://github.com/A-selam/dsa_solutions/tree/master/2509-minimize-xor) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/A-selam/dsa_solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/A-selam/dsa_solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/A-selam/dsa_solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/A-selam/dsa_solutions/tree/master/0794-swim-in-rising-water) |
+| [1022-unique-paths-iii](https://github.com/A-selam/dsa_solutions/tree/master/1022-unique-paths-iii) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/A-selam/dsa_solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/A-selam/dsa_solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3797-design-spreadsheet](https://github.com/A-selam/dsa_solutions/tree/master/3797-design-spreadsheet) |
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/A-selam/dsa_solutions/tree/master/0494-target-sum) |
+| [1022-unique-paths-iii](https://github.com/A-selam/dsa_solutions/tree/master/1022-unique-paths-iii) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/A-selam/dsa_solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Combinatorics
 |  |
