@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/A-selam/dsa_solutions/tree/master/0494-target-sum) |
 | [0648-replace-words](https://github.com/A-selam/dsa_solutions/tree/master/0648-replace-words) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/A-selam/dsa_solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/A-selam/dsa_solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0720-longest-word-in-dictionary](https://github.com/A-selam/dsa_solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0746-prefix-and-suffix-search](https://github.com/A-selam/dsa_solutions/tree/master/0746-prefix-and-suffix-search) |
 | [0794-swim-in-rising-water](https://github.com/A-selam/dsa_solutions/tree/master/0794-swim-in-rising-water) |
