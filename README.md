@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/A-selam/dsa_solutions/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/A-selam/dsa_solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2262-solving-questions-with-brainpower](https://github.com/A-selam/dsa_solutions/tree/master/2262-solving-questions-with-brainpower) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/A-selam/dsa_solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/A-selam/dsa_solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/A-selam/dsa_solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2342-minimum-average-difference](https://github.com/A-selam/dsa_solutions/tree/master/2342-minimum-average-difference) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/A-selam/dsa_solutions/tree/master/0720-longest-word-in-dictionary) |
 | [1018-largest-perimeter-triangle](https://github.com/A-selam/dsa_solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/A-selam/dsa_solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/A-selam/dsa_solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/A-selam/dsa_solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2887-sort-vowels-in-a-string](https://github.com/A-selam/dsa_solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/A-selam/dsa_solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-design-movie-rental-system](https://github.com/A-selam/dsa_solutions/tree/master/2023-design-movie-rental-system) |
 | [2169-simple-bank-system](https://github.com/A-selam/dsa_solutions/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/A-selam/dsa_solutions/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/A-selam/dsa_solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2429-design-a-food-rating-system](https://github.com/A-selam/dsa_solutions/tree/master/2429-design-a-food-rating-system) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/A-selam/dsa_solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/A-selam/dsa_solutions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/A-selam/dsa_solutions/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/A-selam/dsa_solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/A-selam/dsa_solutions/tree/master/2169-simple-bank-system) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/A-selam/dsa_solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/A-selam/dsa_solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/A-selam/dsa_solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/A-selam/dsa_solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
