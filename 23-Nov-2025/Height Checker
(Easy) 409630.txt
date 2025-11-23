@@ -1,0 +1,16 @@
+# Problem: Height Checker
+(Easy) - https://leetcode.com/problems/height-checker/
+
+func heightChecker(heights []int) int {
+    expected := make([]int, len(heights))
+    copy(expected, heights)
+    sort.Ints(expected)
+
+    ans := 0
+    for i := range heights {
+        if expected[i] != heights[i] {
+            ans++
+        }
+    }
+    return ans
+}
