@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/A-selam/dsa_solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/A-selam/dsa_solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/A-selam/dsa_solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/A-selam/dsa_solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/A-selam/dsa_solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/A-selam/dsa_solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-coupon-code-validator](https://github.com/A-selam/dsa_solutions/tree/master/3606-coupon-code-validator) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/A-selam/dsa_solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0960-minimize-malware-spread](https://github.com/A-selam/dsa_solutions/tree/master/0960-minimize-malware-spread) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/A-selam/dsa_solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/A-selam/dsa_solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/A-selam/dsa_solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/A-selam/dsa_solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/A-selam/dsa_solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/A-selam/dsa_solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Recursion
 |  |
 | ------- |
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/A-selam/dsa_solutions/tree/master/0337-house-robber-iii) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/A-selam/dsa_solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Binary Tree
 |  |
 | ------- |
