@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/A-selam/dsa_solutions/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/A-selam/dsa_solutions/tree/master/0830-largest-triangle-area) |
 | [0909-stone-game](https://github.com/A-selam/dsa_solutions/tree/master/0909-stone-game) |
+| [0944-delete-columns-to-make-sorted](https://github.com/A-selam/dsa_solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0960-minimize-malware-spread](https://github.com/A-selam/dsa_solutions/tree/master/0960-minimize-malware-spread) |
 | [1018-largest-perimeter-triangle](https://github.com/A-selam/dsa_solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1022-unique-paths-iii](https://github.com/A-selam/dsa_solutions/tree/master/1022-unique-paths-iii) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0677-map-sum-pairs](https://github.com/A-selam/dsa_solutions/tree/master/0677-map-sum-pairs) |
 | [0720-longest-word-in-dictionary](https://github.com/A-selam/dsa_solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0746-prefix-and-suffix-search](https://github.com/A-selam/dsa_solutions/tree/master/0746-prefix-and-suffix-search) |
+| [0944-delete-columns-to-make-sorted](https://github.com/A-selam/dsa_solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1250-longest-common-subsequence](https://github.com/A-selam/dsa_solutions/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/A-selam/dsa_solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/A-selam/dsa_solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
