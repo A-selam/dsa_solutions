@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/A-selam/dsa_solutions/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/A-selam/dsa_solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0960-minimize-malware-spread](https://github.com/A-selam/dsa_solutions/tree/master/0960-minimize-malware-spread) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/A-selam/dsa_solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/A-selam/dsa_solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/A-selam/dsa_solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Breadth-First Search
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/A-selam/dsa_solutions/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/A-selam/dsa_solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0960-minimize-malware-spread](https://github.com/A-selam/dsa_solutions/tree/master/0960-minimize-malware-spread) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/A-selam/dsa_solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/A-selam/dsa_solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Union Find
 |  |
@@ -421,11 +423,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/A-selam/dsa_solutions/tree/master/0337-house-robber-iii) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/A-selam/dsa_solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/A-selam/dsa_solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Binary Tree
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/A-selam/dsa_solutions/tree/master/0337-house-robber-iii) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/A-selam/dsa_solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Simulation
 |  |
 | ------- |
