@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-prefix-and-suffix-search](https://github.com/A-selam/dsa_solutions/tree/master/0746-prefix-and-suffix-search) |
 | [0794-swim-in-rising-water](https://github.com/A-selam/dsa_solutions/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/A-selam/dsa_solutions/tree/master/0830-largest-triangle-area) |
+| [0875-koko-eating-bananas](https://github.com/A-selam/dsa_solutions/tree/master/0875-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/A-selam/dsa_solutions/tree/master/0909-stone-game) |
 | [0944-delete-columns-to-make-sorted](https://github.com/A-selam/dsa_solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0960-minimize-malware-spread](https://github.com/A-selam/dsa_solutions/tree/master/0960-minimize-malware-spread) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/A-selam/dsa_solutions/tree/master/0069-sqrtx) |
 | [0794-swim-in-rising-water](https://github.com/A-selam/dsa_solutions/tree/master/0794-swim-in-rising-water) |
+| [0875-koko-eating-bananas](https://github.com/A-selam/dsa_solutions/tree/master/0875-koko-eating-bananas) |
 | [1307-ugly-number-iii](https://github.com/A-selam/dsa_solutions/tree/master/1307-ugly-number-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/A-selam/dsa_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/A-selam/dsa_solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
