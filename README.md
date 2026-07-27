@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/A-selam/dsa_solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/A-selam/dsa_solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0399-evaluate-division](https://github.com/A-selam/dsa_solutions/tree/master/0399-evaluate-division) |
+| [0424-longest-repeating-character-replacement](https://github.com/A-selam/dsa_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0514-freedom-trail](https://github.com/A-selam/dsa_solutions/tree/master/0514-freedom-trail) |
 | [0648-replace-words](https://github.com/A-selam/dsa_solutions/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/A-selam/dsa_solutions/tree/master/0677-map-sum-pairs) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/A-selam/dsa_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0166-fraction-to-recurring-decimal](https://github.com/A-selam/dsa_solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0347-top-k-frequent-elements](https://github.com/A-selam/dsa_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/A-selam/dsa_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0648-replace-words](https://github.com/A-selam/dsa_solutions/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/A-selam/dsa_solutions/tree/master/0677-map-sum-pairs) |
 | [0720-longest-word-in-dictionary](https://github.com/A-selam/dsa_solutions/tree/master/0720-longest-word-in-dictionary) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/A-selam/dsa_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/A-selam/dsa_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/A-selam/dsa_solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/A-selam/dsa_solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/A-selam/dsa_solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
