@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/A-selam/dsa_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/A-selam/dsa_solutions/tree/master/0020-valid-parentheses) |
+| [0076-minimum-window-substring](https://github.com/A-selam/dsa_solutions/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/A-selam/dsa_solutions/tree/master/0091-decode-ways) |
 | [0165-compare-version-numbers](https://github.com/A-selam/dsa_solutions/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/A-selam/dsa_solutions/tree/master/0166-fraction-to-recurring-decimal) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/A-selam/dsa_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/A-selam/dsa_solutions/tree/master/0076-minimum-window-substring) |
 | [0166-fraction-to-recurring-decimal](https://github.com/A-selam/dsa_solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0347-top-k-frequent-elements](https://github.com/A-selam/dsa_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/A-selam/dsa_solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/A-selam/dsa_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/A-selam/dsa_solutions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/A-selam/dsa_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/A-selam/dsa_solutions/tree/master/0567-permutation-in-string) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/A-selam/dsa_solutions/tree/master/2618-maximize-the-minimum-powered-city) |
