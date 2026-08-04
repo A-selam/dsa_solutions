@@ -1,27 +1,49 @@
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
-        original = Counter(t)
-        window = defaultdict(int) 
-        missing = len(t)
+        m = len(s)
+        n = len(t)
 
-        ans_len = float('inf')
-        ans = (0, 0)
-        left = 0
-        for right, ch in enumerate(s):
-            if ch in original:
-                window[ch] += 1
-                if window[ch] <= original[ch]:
-                    missing -= 1
+        count_t = defaultdict(int)
+        for char in t:
+            count_t[char] += 1
+        
+        count_s = defaultdict(int)
+        rem = sum(count_t.values())
+        left = -1
 
-            while missing == 0:
-                if right - left + 1 < ans_len:
-                    ans = (left, right)
-                    ans_len = right-left+1
-                
-                if s[left] in original:
-                    window[s[left]] -= 1
-                    if window[s[left]] < original[s[left]]:
-                        missing += 1
-                left += 1
-                        
-        return (s[ans[0]:ans[1]+1]) if ans_len != float('inf') else ""
+        ans = (0, 0, float('inf'))
+
+        for right, val in enumerate(s):
+            if left == -1 and val not in count_t:
+                continue
+            
+            if val in count_t:
+                if left == -1:
+                    left = right
+                count_s[val] += 1
+                if count_s[val] <= count_t[val]:
+                    rem -= 1   
+
+            while (
+                    s[left] not in count_t or
+                    count_s[s[left]] > count_t[s[left]]
+                ):
+                if s[left] not in count_t:
+                    left += 1
+                elif count_s[s[left]] > count_t[s[left]]:
+                    count_s[s[left]] -= 1
+                    left += 1
+                elif count_t[s[left]] == count_s[s[left]]:
+                    if s[left] in count_t:
+                        break
+                else:
+                    count_s[s[left]] -= 1
+                    rem += 1
+                    break
+            
+            if rem == 0 and ans[2] > (right-left+1):
+                ans = (left, right, right-left+1)
+    
+        if ans[2] != float("inf"):
+            return s[ans[0]:ans[1]+1]
+        return ""
