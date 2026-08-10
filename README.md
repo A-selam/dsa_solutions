@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/A-selam/dsa_solutions/tree/master/0066-plus-one) |
 | [0120-triangle](https://github.com/A-selam/dsa_solutions/tree/master/0120-triangle) |
 | [0204-count-primes](https://github.com/A-selam/dsa_solutions/tree/master/0204-count-primes) |
+| [0239-sliding-window-maximum](https://github.com/A-selam/dsa_solutions/tree/master/0239-sliding-window-maximum) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/A-selam/dsa_solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/A-selam/dsa_solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/A-selam/dsa_solutions/tree/master/0347-top-k-frequent-elements) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/A-selam/dsa_solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/A-selam/dsa_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/A-selam/dsa_solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/A-selam/dsa_solutions/tree/master/0794-swim-in-rising-water) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/A-selam/dsa_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/A-selam/dsa_solutions/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/A-selam/dsa_solutions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/A-selam/dsa_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/A-selam/dsa_solutions/tree/master/0567-permutation-in-string) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/A-selam/dsa_solutions/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -522,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/A-selam/dsa_solutions/tree/master/0239-sliding-window-maximum) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/A-selam/dsa_solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Monotonic Stack
 |  |
@@ -535,4 +539,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/A-selam/dsa_solutions/tree/master/0347-top-k-frequent-elements) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/A-selam/dsa_solutions/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/A-selam/dsa_solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
