@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/A-selam/dsa_solutions/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/A-selam/dsa_solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/A-selam/dsa_solutions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/A-selam/dsa_solutions/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/A-selam/dsa_solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0347-top-k-frequent-elements](https://github.com/A-selam/dsa_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/A-selam/dsa_solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/A-selam/dsa_solutions/tree/master/0146-lru-cache) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/A-selam/dsa_solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0677-map-sum-pairs](https://github.com/A-selam/dsa_solutions/tree/master/0677-map-sum-pairs) |
 | [0746-prefix-and-suffix-search](https://github.com/A-selam/dsa_solutions/tree/master/0746-prefix-and-suffix-search) |
@@ -538,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/A-selam/dsa_solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/A-selam/dsa_solutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/A-selam/dsa_solutions/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/A-selam/dsa_solutions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/A-selam/dsa_solutions/tree/master/0206-reverse-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/A-selam/dsa_solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Queue
@@ -569,4 +572,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/A-selam/dsa_solutions/tree/master/0141-linked-list-cycle) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/A-selam/dsa_solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
