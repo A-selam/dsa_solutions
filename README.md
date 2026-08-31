@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/A-selam/dsa_solutions/tree/master/0120-triangle) |
 | [0204-count-primes](https://github.com/A-selam/dsa_solutions/tree/master/0204-count-primes) |
 | [0239-sliding-window-maximum](https://github.com/A-selam/dsa_solutions/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/A-selam/dsa_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/A-selam/dsa_solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/A-selam/dsa_solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/A-selam/dsa_solutions/tree/master/0347-top-k-frequent-elements) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/A-selam/dsa_solutions/tree/master/0191-number-of-1-bits) |
+| [0287-find-the-duplicate-number](https://github.com/A-selam/dsa_solutions/tree/master/0287-find-the-duplicate-number) |
 | [1022-unique-paths-iii](https://github.com/A-selam/dsa_solutions/tree/master/1022-unique-paths-iii) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/A-selam/dsa_solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2509-minimize-xor](https://github.com/A-selam/dsa_solutions/tree/master/2509-minimize-xor) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/A-selam/dsa_solutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/A-selam/dsa_solutions/tree/master/0143-reorder-list) |
 | [0165-compare-version-numbers](https://github.com/A-selam/dsa_solutions/tree/master/0165-compare-version-numbers) |
+| [0287-find-the-duplicate-number](https://github.com/A-selam/dsa_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/A-selam/dsa_solutions/tree/master/0567-permutation-in-string) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/A-selam/dsa_solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/A-selam/dsa_solutions/tree/master/3165-find-indices-with-index-and-value-difference-i) |
@@ -487,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/A-selam/dsa_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/A-selam/dsa_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/A-selam/dsa_solutions/tree/master/0069-sqrtx) |
+| [0287-find-the-duplicate-number](https://github.com/A-selam/dsa_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0794-swim-in-rising-water](https://github.com/A-selam/dsa_solutions/tree/master/0794-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/A-selam/dsa_solutions/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/A-selam/dsa_solutions/tree/master/0981-time-based-key-value-store) |
@@ -572,8 +576,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/A-selam/dsa_solutions/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/A-selam/dsa_solutions/tree/master/0287-find-the-duplicate-number) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/A-selam/dsa_solutions/tree/master/0146-lru-cache) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/A-selam/dsa_solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
